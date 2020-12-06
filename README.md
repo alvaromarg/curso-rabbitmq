@@ -1,0 +1,2 @@
+# curso-rabbitmq
+Curso RabbitMQ
